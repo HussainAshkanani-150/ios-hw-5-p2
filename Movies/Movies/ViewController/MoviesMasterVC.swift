@@ -45,10 +45,13 @@ class MoviesMasterVC: UITableViewController {
 
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as! MoviesCell
 
         // Configure the cell...
-        cell.textLabel?.text = MoviesData[indexPath.row].movieName
+        let movie = MoviesData[indexPath.row]
+        cell.actorName.text = movie.movieName
+        cell.actorImage.image = UIImage(named: movie.movieName)
+        cell.moviePlot.text = movie.story
                return cell
            }
     
@@ -57,6 +60,7 @@ class MoviesMasterVC: UITableViewController {
           performSegue(withIdentifier: "next", sender: indexPath.row)
     
     }
+    
 
     /*
     // Override to support conditional editing of the table view.

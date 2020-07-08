@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E6344EB24B6434E00FEEDB6 /* MoviesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6344EA24B6434E00FEEDB6 /* MoviesCell.swift */; };
 		9E9478FE24B12A5D00C18107 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9478FD24B12A5D00C18107 /* AppDelegate.swift */; };
 		9E94790024B12A5D00C18107 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9478FF24B12A5D00C18107 /* SceneDelegate.swift */; };
 		9E94790724B12A6500C18107 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E94790624B12A6500C18107 /* Assets.xcassets */; };
@@ -16,9 +17,24 @@
 		9E94791924B1376D00C18107 /* MoviesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E94791824B1376D00C18107 /* MoviesData.swift */; };
 		9E94791D24B13D1500C18107 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E94791C24B13D1500C18107 /* Main.storyboard */; };
 		9EE46BBD24B5168A009E6502 /* BGcolors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EE46BBC24B5168A009E6502 /* BGcolors.swift */; };
+		9EFD7F3724B66ADF00726CD0 /* 1917.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2924B66AD800726CD0 /* 1917.mp3 */; };
+		9EFD7F3824B66ADF00726CD0 /* Wonder.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2A24B66AD800726CD0 /* Wonder.mp3 */; };
+		9EFD7F3924B66ADF00726CD0 /* Passengers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2B24B66AD900726CD0 /* Passengers.mp3 */; };
+		9EFD7F3A24B66ADF00726CD0 /* Bird Box.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2C24B66ADA00726CD0 /* Bird Box.mp3 */; };
+		9EFD7F3B24B66ADF00726CD0 /* Parasite.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2D24B66ADA00726CD0 /* Parasite.mp3 */; };
+		9EFD7F3C24B66ADF00726CD0 /* Bajrangi Bhaijaan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2E24B66ADA00726CD0 /* Bajrangi Bhaijaan.mp3 */; };
+		9EFD7F3D24B66ADF00726CD0 /* The Greatest Showman.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F2F24B66ADB00726CD0 /* The Greatest Showman.mp3 */; };
+		9EFD7F3E24B66ADF00726CD0 /* Marriage Story.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3024B66ADC00726CD0 /* Marriage Story.mp3 */; };
+		9EFD7F3F24B66ADF00726CD0 /* Aladdin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3124B66ADC00726CD0 /* Aladdin.mp3 */; };
+		9EFD7F4024B66ADF00726CD0 /* Home Alone2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3224B66ADC00726CD0 /* Home Alone2.mp3 */; };
+		9EFD7F4124B66ADF00726CD0 /* Interstellar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3324B66ADD00726CD0 /* Interstellar.mp3 */; };
+		9EFD7F4224B66ADF00726CD0 /* Joker.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3424B66ADE00726CD0 /* Joker.mp3 */; };
+		9EFD7F4324B66ADF00726CD0 /* Lights Out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3524B66ADE00726CD0 /* Lights Out.mp3 */; };
+		9EFD7F4424B66ADF00726CD0 /* San Andreas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9EFD7F3624B66ADF00726CD0 /* San Andreas.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9E6344EA24B6434E00FEEDB6 /* MoviesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesCell.swift; sourceTree = "<group>"; };
 		9E9478FA24B12A5C00C18107 /* Movies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9478FD24B12A5D00C18107 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E9478FF24B12A5D00C18107 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -30,6 +46,20 @@
 		9E94791824B1376D00C18107 /* MoviesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesData.swift; sourceTree = "<group>"; };
 		9E94791C24B13D1500C18107 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		9EE46BBC24B5168A009E6502 /* BGcolors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BGcolors.swift; sourceTree = "<group>"; };
+		9EFD7F2924B66AD800726CD0 /* 1917.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1917.mp3; sourceTree = "<group>"; };
+		9EFD7F2A24B66AD800726CD0 /* Wonder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wonder.mp3; sourceTree = "<group>"; };
+		9EFD7F2B24B66AD900726CD0 /* Passengers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Passengers.mp3; sourceTree = "<group>"; };
+		9EFD7F2C24B66ADA00726CD0 /* Bird Box.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bird Box.mp3"; sourceTree = "<group>"; };
+		9EFD7F2D24B66ADA00726CD0 /* Parasite.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Parasite.mp3; sourceTree = "<group>"; };
+		9EFD7F2E24B66ADA00726CD0 /* Bajrangi Bhaijaan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bajrangi Bhaijaan.mp3"; sourceTree = "<group>"; };
+		9EFD7F2F24B66ADB00726CD0 /* The Greatest Showman.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Greatest Showman.mp3"; sourceTree = "<group>"; };
+		9EFD7F3024B66ADC00726CD0 /* Marriage Story.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Marriage Story.mp3"; sourceTree = "<group>"; };
+		9EFD7F3124B66ADC00726CD0 /* Aladdin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Aladdin.mp3; sourceTree = "<group>"; };
+		9EFD7F3224B66ADC00726CD0 /* Home Alone2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Home Alone2.mp3"; sourceTree = "<group>"; };
+		9EFD7F3324B66ADD00726CD0 /* Interstellar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Interstellar.mp3; sourceTree = "<group>"; };
+		9EFD7F3424B66ADE00726CD0 /* Joker.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Joker.mp3; sourceTree = "<group>"; };
+		9EFD7F3524B66ADE00726CD0 /* Lights Out.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lights Out.mp3"; sourceTree = "<group>"; };
+		9EFD7F3624B66ADF00726CD0 /* San Andreas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "San Andreas.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +73,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9E6344F024B666B700FEEDB6 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				9EFD7F2924B66AD800726CD0 /* 1917.mp3 */,
+				9EFD7F3124B66ADC00726CD0 /* Aladdin.mp3 */,
+				9EFD7F2E24B66ADA00726CD0 /* Bajrangi Bhaijaan.mp3 */,
+				9EFD7F2C24B66ADA00726CD0 /* Bird Box.mp3 */,
+				9EFD7F3224B66ADC00726CD0 /* Home Alone2.mp3 */,
+				9EFD7F3324B66ADD00726CD0 /* Interstellar.mp3 */,
+				9EFD7F3424B66ADE00726CD0 /* Joker.mp3 */,
+				9EFD7F3524B66ADE00726CD0 /* Lights Out.mp3 */,
+				9EFD7F3024B66ADC00726CD0 /* Marriage Story.mp3 */,
+				9EFD7F2D24B66ADA00726CD0 /* Parasite.mp3 */,
+				9EFD7F2B24B66AD900726CD0 /* Passengers.mp3 */,
+				9EFD7F3624B66ADF00726CD0 /* San Andreas.mp3 */,
+				9EFD7F2F24B66ADB00726CD0 /* The Greatest Showman.mp3 */,
+				9EFD7F2A24B66AD800726CD0 /* Wonder.mp3 */,
+			);
+			name = Music;
+			path = ../Music;
+			sourceTree = "<group>";
+		};
 		9E9478F124B12A5C00C18107 = {
 			isa = PBXGroup;
 			children = (
@@ -62,6 +114,7 @@
 		9E9478FC24B12A5D00C18107 /* Movies */ = {
 			isa = PBXGroup;
 			children = (
+				9E6344F024B666B700FEEDB6 /* Music */,
 				9E94791724B1373F00C18107 /* Model */,
 				9E9478FD24B12A5D00C18107 /* AppDelegate.swift */,
 				9E9478FF24B12A5D00C18107 /* SceneDelegate.swift */,
@@ -88,6 +141,7 @@
 				9E94791324B1369E00C18107 /* MoviesMasterVC.swift */,
 				9E94791524B1373200C18107 /* MovieDetailsVC.swift */,
 				9EE46BBC24B5168A009E6502 /* BGcolors.swift */,
+				9E6344EA24B6434E00FEEDB6 /* MoviesCell.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -158,9 +212,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EFD7F3724B66ADF00726CD0 /* 1917.mp3 in Resources */,
+				9EFD7F4024B66ADF00726CD0 /* Home Alone2.mp3 in Resources */,
+				9EFD7F4424B66ADF00726CD0 /* San Andreas.mp3 in Resources */,
+				9EFD7F3D24B66ADF00726CD0 /* The Greatest Showman.mp3 in Resources */,
+				9EFD7F3E24B66ADF00726CD0 /* Marriage Story.mp3 in Resources */,
 				9E94790A24B12A6500C18107 /* LaunchScreen.storyboard in Resources */,
 				9E94791D24B13D1500C18107 /* Main.storyboard in Resources */,
+				9EFD7F3C24B66ADF00726CD0 /* Bajrangi Bhaijaan.mp3 in Resources */,
+				9EFD7F4224B66ADF00726CD0 /* Joker.mp3 in Resources */,
+				9EFD7F3B24B66ADF00726CD0 /* Parasite.mp3 in Resources */,
+				9EFD7F3924B66ADF00726CD0 /* Passengers.mp3 in Resources */,
+				9EFD7F3A24B66ADF00726CD0 /* Bird Box.mp3 in Resources */,
+				9EFD7F3824B66ADF00726CD0 /* Wonder.mp3 in Resources */,
+				9EFD7F3F24B66ADF00726CD0 /* Aladdin.mp3 in Resources */,
 				9E94790724B12A6500C18107 /* Assets.xcassets in Resources */,
+				9EFD7F4124B66ADF00726CD0 /* Interstellar.mp3 in Resources */,
+				9EFD7F4324B66ADF00726CD0 /* Lights Out.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -175,6 +243,7 @@
 				9E94791424B1369E00C18107 /* MoviesMasterVC.swift in Sources */,
 				9E9478FE24B12A5D00C18107 /* AppDelegate.swift in Sources */,
 				9E94791624B1373200C18107 /* MovieDetailsVC.swift in Sources */,
+				9E6344EB24B6434E00FEEDB6 /* MoviesCell.swift in Sources */,
 				9E94791924B1376D00C18107 /* MoviesData.swift in Sources */,
 				9E94790024B12A5D00C18107 /* SceneDelegate.swift in Sources */,
 			);

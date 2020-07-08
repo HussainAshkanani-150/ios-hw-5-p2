@@ -27,23 +27,7 @@ struct BackgroundColorSource {
         UIColor(hue: 323/360, saturation: 57/100, brightness: 100/100, alpha: 1.0),
         UIColor(red: 1, green: 0.4235, blue: 0.7882, alpha: 1.0),
         UIColor(red: 255/255, green: 108/255, blue: 201/255, alpha: 1.0),
-        UIColor.black,
-        UIColor.darkGray,
-        UIColor.lightGray,
-        UIColor.white,
-        UIColor.gray,
-        UIColor.red,
-        UIColor.green,
-        UIColor.blue,
-        UIColor.cyan,
-        UIColor.yellow,
-        UIColor.magenta,
-        UIColor.orange,
-        UIColor.purple,
-        UIColor.brown,
-        UIColor.clear,
-        UIColor.cyan,
-        UIColor.systemPink,
+
     ]
     
     func randomColor() -> UIColor {
